@@ -1,5 +1,4 @@
 # NFL-Team-Performance 2016
-# 🏈 NFL Team Performance Report
 
 This repository contains an analytical report on *NFL team performances* using aggregated game data. The dashboard visualizations have been translated into this report for clarity and further insights.
 
